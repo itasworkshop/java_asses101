@@ -1,0 +1,14 @@
+1. when you are pushing first time
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/itasworkshop/java_asses101.git
+git push -u origin main
+
+2. when you are pushing second
+
+git add .
+git commit -m "first commit"
+git push -u origin main
